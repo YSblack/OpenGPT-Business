@@ -76,7 +76,7 @@ function Layout(props: Props) {
       route={props.route}
       menuDataRender={props.menuDataRender}
       avatarProps={{
-        src: 'https://u1.dl0.cn/icon/1682426702646avatarf3db669b024fad66-1930929abe2847093.png',
+        src: 'https://dh.ysblack.cn/storage/upload/20230602/yhtx.png',
         size: 'small',
         render: (p, dom) => <>{dom}</>
       }}
