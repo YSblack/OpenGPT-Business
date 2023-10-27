@@ -28,17 +28,17 @@ function GoodsPay() {
     }
   } = {
     wxpay: {
-      icon: 'https://u1.dl0.cn/icon/wxpay_icon.png',
+      icon: 'https://dh.ysblack.cn/storage/upload/20230602/wxpay_icon.png',
       message: '请使用微信扫码支付',
       color: '#24aa39'
     },
     alipay: {
-      icon: 'https://u1.dl0.cn/icon/alipay_icon.png',
+      icon: 'https://dh.ysblack.cn/storage/upload/20230602/alipay_icon.png',
       message: '请使用支付宝扫码支付',
       color: '#1678ff'
     },
     qqpay: {
-      icon: 'https://u1.dl0.cn/icon/qqpay_icon.png',
+      icon: 'https://dh.ysblack.cn/storage/upload/20230602/qqpay_icon.png',
       message: '请使用QQ扫码支付',
       color: '#10b8f6'
     }
