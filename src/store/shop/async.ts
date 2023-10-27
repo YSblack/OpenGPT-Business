@@ -8,17 +8,17 @@ async function fetchProduct() {
 	const payTyps = res.data.pay_types.map((type) => {
 		const types: {[key: string]: any} = {
 			wxpay: {
-				icon: 'https://u1.dl0.cn/icon/wxpay_icon.png',
+				icon: 'https://dh.ysblack.cn/storage/upload/20230602/wxpay_icon.png',
 				title: '微信支付',
 				key: 'wxpay'
 			},
 			alipay: {
-				icon: 'https://u1.dl0.cn/icon/alipay_icon.png',
+				icon: 'https://dh.ysblack.cn/storage/upload/20230602/alipay_icon.png',
 				title: '支付宝',
 				key: 'alipay'
 			},
 			qqpay: {
-				icon: 'https://u1.dl0.cn/icon/qqpay_icon.png',
+				icon: 'https://dh.ysblack.cn/storage/upload/20230602/qqpay_icon.png',
 				title: 'QQ支付',
 				key: 'qqpay'
 			},
