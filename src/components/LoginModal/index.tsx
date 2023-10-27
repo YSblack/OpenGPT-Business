@@ -43,7 +43,7 @@ export function LoginCard(props: {
   return (
     <LoginForm<RequestLoginParams>
       form={props.form}
-      logo="https://u1.dl0.cn/icon/openailogo.svg"
+      logo="https://dh.ysblack.cn/storage/upload/20230602/openailogo.svg"
       title=""
       subTitle="基于大语言模型的AI对话产品"
       actions={(
