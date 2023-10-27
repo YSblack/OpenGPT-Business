@@ -374,7 +374,7 @@ function DrawPage() {
         <div className={styles.drawPage_container}>
           <div className={styles.drawPage_container_one} ref={containerOneRef}>
             <div className={styles.drawPage_header}>
-              <img src="https://u1.dl0.cn/icon/Midjourneybf2f31b4a2ac2dc9.png" alt="Midjourney" />
+              <img src="https://dh.ysblack.cn/storage/upload/20230602/Midjourneybf2f31b4a2ac2dc9.png" alt="Midjourney" />
               <h2>AI 一下，妙笔生画</h2>
               <h4>只需一句话，让你的文字变成画作</h4>
             </div>
@@ -512,7 +512,7 @@ function DrawPage() {
                       label: useMemo(
                         () => (
                           <SegmentedLabel
-                            icon="https://u1.dl0.cn/icon/openai_draw_icon.png"
+                            icon="https://dh.ysblack.cn/storage/upload/20230602/openai_draw_icon.png"
                             title="OpenAI"
                           />
                         ),
@@ -524,7 +524,7 @@ function DrawPage() {
                       label: useMemo(
                         () => (
                           <SegmentedLabel
-                            icon="https://u1.dl0.cn/icon/sd_draw_icon.png"
+                            icon="https://dh.ysblack.cn/storage/upload/20230602/sd_draw_icon.png"
                             title="StableDiffusion"
                           />
                         ),
