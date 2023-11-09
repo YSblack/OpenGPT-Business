@@ -32,8 +32,8 @@ const getModels = (type: string) => {
   }
   return [
     {
-      label: 'OpenAI(dall-e-3)绘画',
-      value: 'dall-e-3'
+      label: 'OpenAI(dall-e)绘画',
+      value: 'dall-e'
     },
     {
       label: 'gpt-3.5-turbo',
